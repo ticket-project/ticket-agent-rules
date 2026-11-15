@@ -1,0 +1,14 @@
+{
+  "name": "ticket-agent-rules",
+  "description": "ticket-project 레포에서 에이전트에게 팀 규칙을 필요한 순간에 다시 알려 주는 플러그인 모음",
+  "owner": {
+    "name": "ticket-project"
+  },
+  "plugins": [
+    {
+      "name": "ticket-rules",
+      "source": "./plugins/ticket-rules",
+      "description": "세션 시작 공통 안내와 파일 작성 직후·끝내기 직전 규칙 hook"
+    }
+  ]
+}

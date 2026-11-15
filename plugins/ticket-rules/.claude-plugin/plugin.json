@@ -1,0 +1,7 @@
+{
+  "name": "ticket-rules",
+  "description": "세션 시작 공통 안내와 파일 작성 직후·끝내기 직전 규칙 hook",
+  "author": {
+    "name": "ticket-project"
+  }
+}
